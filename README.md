@@ -43,6 +43,9 @@ datapath="C:/Users/Taka/Documents/mybot/vendor/"
 ## コマンド一覧
 ![0](images/6.png)  
 ![0](images/7.png)  
+  
+ソースコードは630行  
+![0](images/8.png)  
 ## コンタクト
 サーバー / https://discord.gg/aSyaAK7Ktm  
 Discord / .taka.
